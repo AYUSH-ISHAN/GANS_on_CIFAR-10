@@ -6,6 +6,8 @@ GAN consist of two networks:
 <ul>
   <li>A discriminator D receive input from training data and generated data. Its job is to learn how to distinguish between these two inputs.</li>
   <li>A generator G generate samples from a random noise Z. Generator objective is to generate a sample that is as real as possible it could not be distinguished by        Discriminator.</li>
+<br>
+<img src = "https://github.com/AYUSH-ISHAN/GANS_on_CIFAR-10/blob/main/GANS.jpg" height = "360" width = "660"/>
   
 # DATASET:
 
