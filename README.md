@@ -1,7 +1,12 @@
-# APPLYING GANS ON CIFAR-10 IMAGE DATASET
+# APPLYING GAN ON CIFAR-10 IMAGE DATASET
 
-# Generative Adversial Network (GANS):
+# INTRODUCTION:
 
+GAN consist of two networks:
+<ul>
+  <li>A discriminator D receive input from training data and generated data. Its job is to learn how to distinguish between these two inputs.</li>
+  <li>A generator G generate samples from a random noise Z. Generator objective is to generate a sample that is as real as possible it could not be distinguished by        Discriminator.</li>
+  
 # DATASET:
 
 <h3><B>The CIFAR-10 dataset</B></h3>
@@ -12,9 +17,4 @@ The classes are completely mutually exclusive. There is no overlap between autom
 
 
 
-# INTRODUCTION:
 
-GAN consist of two networks:
-<ul>
-  <li>A discriminator D receive input from training data and generated data. Its job is to learn how to distinguish between these two inputs.</li>
-  <li>A generator G generate samples from a random noise Z. Generator objective is to generate a sample that is as real as possible it could not be distinguished by        Discriminator.</li>
