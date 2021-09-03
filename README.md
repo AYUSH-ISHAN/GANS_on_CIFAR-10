@@ -93,7 +93,7 @@ The classes are completely mutually exclusive. There is no overlap between autom
 # RESULTS:
  
 Although the whole result and analysis in present in <a href = "https://github.com/AYUSH-ISHAN/GANS_on_CIFAR-10/blob/main/GAN.pdf">GAN.pdf</a>. But here
-  am presenting the output after 200 epochs of training.
+  am presenting the output after <B>200 epochs</B> of training.
         
   <img src = "GAN images/GAN.png"/>
 
