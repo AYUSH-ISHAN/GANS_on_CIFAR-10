@@ -8,6 +8,14 @@ GAN consist of two networks:
   <li>A generator G generate samples from a random noise Z. Generator objective is to generate a sample that is as real as possible it could not be distinguished by        Discriminator.</li>
 <br>
 <img src = "https://github.com/AYUSH-ISHAN/GANS_on_CIFAR-10/blob/main/GANS.jpg" height = "360" width = "660"/>
+
+# FILES AND FOLDERS:
+  
+<ul>
+  <li>GAN images : This folder contains the output of the generator model after aqn interval of 10 epochs untill we reach 200 epochs.</li>
+  <li>GAN.ipnyb : This jupyter notebook as the implementation of GAN on CIFAR_10 Dataset.</li>
+  <li>GAN.pdf : This pdf contains the report of research and analysis done on this project.</li>
+</ul>
   
 # DATASET:
 
