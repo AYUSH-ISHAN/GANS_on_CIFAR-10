@@ -15,6 +15,7 @@ GAN consist of two networks:
   <li>GAN images : This folder contains the output of the generator model after aqn interval of 10 epochs untill we reach 200 epochs.</li>
   <li>GAN.ipnyb : This jupyter notebook as the implementation of GAN on CIFAR_10 Dataset.</li>
   <li>GAN.pdf : This pdf contains the report of research and analysis done on this project.</li>
+  <li>Generator.py and Discriminator.py : This pdf contains the models of the generator and discriminator model.
 </ul>
   
 # DATASET:
